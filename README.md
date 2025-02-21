@@ -26,6 +26,7 @@ git clone https://github.com/Rohitsonawane299/Startup-community.git
 cd Startup-community
 
 2) Set Up the Database
+  sql dump file: start_up.sql
 
 3) Deploy on Tomcat Server
 Place the project folder in webapps/ of Apache Tomcat.
