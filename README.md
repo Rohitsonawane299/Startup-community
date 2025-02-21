@@ -1,4 +1,4 @@
-# tartup Community
+# Startup Community
 A Dynamic Platform for Startups and Entrepreneurs
 
 ## Overview
@@ -25,9 +25,9 @@ and investment opportunities through a secure and dynamic system.
 git clone https://github.com/Rohitsonawane299/Startup-community.git  
 cd Startup-community
 
-2)Set Up the Database
+2) Set Up the Database
 
-3)Deploy on Tomcat Server
+3) Deploy on Tomcat Server
 Place the project folder in webapps/ of Apache Tomcat.
 Start the Tomcat server and access the project at:
 http://localhost:8080/startup-community
